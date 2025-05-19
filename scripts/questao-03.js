@@ -9,7 +9,7 @@ Crie um programa que calcule a média de notas de uma turma:
 */
 
 //declaração de variáveis
-let notas = [8.5, 7.0, 9.5, 6.5, 8.0, 7.5, 5.5, 6.0, 9.0, 10.0];
+const notas = [8.5, 7.0, 9.5, 6.5, 8.0, 7.5, 5.5, 6.0, 9.0, 10.0];
 let media = 0;
 let totalNotas = 0;
 let alunosAcimaMedia = 0;
